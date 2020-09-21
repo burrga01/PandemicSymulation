@@ -1,0 +1,13 @@
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\bin\Debug\netcoreapp3.1\PandemicSymulation.exe
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\bin\Debug\netcoreapp3.1\PandemicSymulation.deps.json
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\bin\Debug\netcoreapp3.1\PandemicSymulation.runtimeconfig.json
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\bin\Debug\netcoreapp3.1\PandemicSymulation.runtimeconfig.dev.json
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\bin\Debug\netcoreapp3.1\PandemicSymulation.dll
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\bin\Debug\netcoreapp3.1\PandemicSymulation.pdb
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\obj\Debug\netcoreapp3.1\PandemicSymulation.csprojAssemblyReference.cache
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\obj\Debug\netcoreapp3.1\PandemicSymulation.AssemblyInfoInputs.cache
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\obj\Debug\netcoreapp3.1\PandemicSymulation.AssemblyInfo.cs
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\obj\Debug\netcoreapp3.1\PandemicSymulation.csproj.CoreCompileInputs.cache
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\obj\Debug\netcoreapp3.1\PandemicSymulation.dll
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\obj\Debug\netcoreapp3.1\PandemicSymulation.pdb
+C:\Users\hamwa\source\repos\PandemicSymulation\PandemicSymulation\obj\Debug\netcoreapp3.1\PandemicSymulation.genruntimeconfig.cache
